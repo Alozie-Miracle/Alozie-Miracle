@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alozie Miracle Patrick</h1>
-<h3 align="center">i I develop 3D visuals, user interfaces and web application</h3>
+<h3 align="center"> I develop 3D visuals, user interfaces and web application</h3>
 
 - 🔭 I’m currently working on **a start-up tech company**
 
