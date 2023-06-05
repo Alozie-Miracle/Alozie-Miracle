@@ -28,5 +28,8 @@
 <h3>Sample Projects </h3>
 <p>My portfolio website buit with reactjs, tailwindcss and threejs</p>
 <img src='https://github.com/Alozie-Miracle/alozieMiraclePatrick/blob/main/cv.png' alt='my portfolio' />
+
+<p>Airbnb clone buit with reactjs, tailwindcss abd heroicons</p>
+<img src='https://github.com/Alozie-Miracle/alozieMiraclePatrick/blob/main/airbnb.png' alt='airbnb clone' />
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alozie-Miracle&show_icons=true&theme=radical)
