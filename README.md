@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **miraclealoziesoftwaredev@gmail.com**
 
-- 📄 Know about my experiences hppts://cogni.africa/](https://cogni.africa/)
+- 📄 Know about my experiences [https://cogni.africa/](https://cogni.africa/)
 
 - ⚡ Fun fact **I kinda think i'm funny.**
 
