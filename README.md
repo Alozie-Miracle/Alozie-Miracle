@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **A unique social media application**
 
-- 👨‍💻 All of my projects are available at [https://cv-tau-gules.vercel.app/](https://cv-tau-gules.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://cogni.africa/](https://cogni.afrca/)
 
 - 💬 Ask me about **MERN applications**
 
 - 📫 How to reach me **miraclealoziesoftwaredev@gmail.com**
 
-- 📄 Know about my experiences [https://cv-tau-gules.vercel.app/](https://cv-tau-gules.vercel.app/)
+- 📄 Know about my experiences hppts://cogni.africa/](https://cogni.africa/)
 
 - ⚡ Fun fact **I kinda think i'm funny.**
 
